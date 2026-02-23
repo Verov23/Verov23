@@ -15,19 +15,12 @@
 
 ### 🛠️ &nbsp;Tech Stack
 
-| **Programming & Data Analysis** | **Business Intelligence & Visualization** |
-|---------------------------------|------------------------------------------|
-| 🐍 Python (Pandas, NumPy)       | 📈 Power BI                               |
-| 🗃️ SQL                          | 📊 Tableau                                |
-| 📊 Excel (Advanced)             | 📉 Matplotlib, Seaborn, Plotly          |
-| 📝 Google Sheets                 |                                          |
-
-| **Tools & Platforms**           | **Data Skills**                           |
-|---------------------------------|------------------------------------------|
-| 💻 Jupyter Notebook             | 🧹 Data Cleaning & Transformation         |
-| 🔗 GitHub                        | 📊 KPI Monitoring & Reporting             |
-| 🏢 SAP, MICROPLUS, SERCOP        | 📚 Exploratory Data Analysis (EDA)       |
-|                                 | 📈 Dashboard Development                  |
+| Programming | BI & Visualization | Tools & Platforms | Data Skills |
+|------------|------------------|-----------------|-------------|
+| 🐍 Python (Pandas, NumPy) | 📈 Power BI | 💻 Jupyter Notebook | 🧹 Data Cleaning & Transformation |
+| 🗃️ SQL | 📊 Tableau | 🔗 GitHub | 📊 KPI Monitoring & Reporting |
+| 📊 Excel (Advanced) | 📉 Matplotlib, Seaborn, Plotly | 🏢 SAP, MICROPLUS, SERCOP | 📚 Exploratory Data Analysis (EDA) |
+| 📝 Google Sheets |                  |                 | 📈 Dashboard Development |
 
 ### 🤝🏻 &nbsp;Connect with Me
 
