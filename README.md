@@ -15,36 +15,19 @@
 
 ### 🛠️ &nbsp;Tech Stack
 
-**Programming & Data Analysis:**  
-- 🐍 Python (Pandas, NumPy)  
-- 🗃️ SQL  
-- 📊 Excel (Advanced)  
-- 📝 Google Sheets  
+| **Programming & Data Analysis** | **Business Intelligence & Visualization** |
+|---------------------------------|------------------------------------------|
+| 🐍 Python (Pandas, NumPy)       | 📈 Power BI                               |
+| 🗃️ SQL                          | 📊 Tableau                                |
+| 📊 Excel (Advanced)             | 📉 Matplotlib, Seaborn, Plotly          |
+| 📝 Google Sheets                 |                                          |
 
-**Business Intelligence & Visualization:**  
-- 📈 Power BI  
-- 📊 Tableau  
-- 📉 Matplotlib, Seaborn, Plotly  
-
-**Tools & Platforms:**  
-- 💻 Jupyter Notebook  
-- 🔗 GitHub  
-- 🏢 SAP, MICROPLUS, SERCOP  
-
-**Data Skills:**  
-- 🧹 Data Cleaning & Transformation  
-- 📊 KPI Monitoring & Reporting  
-- 📚 Exploratory Data Analysis (EDA)  
-- 📈 Dashboard Development
-  
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Verov23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Verov23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verov23&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+| **Tools & Platforms**           | **Data Skills**                           |
+|---------------------------------|------------------------------------------|
+| 💻 Jupyter Notebook             | 🧹 Data Cleaning & Transformation         |
+| 🔗 GitHub                        | 📊 KPI Monitoring & Reporting             |
+| 🏢 SAP, MICROPLUS, SERCOP        | 📚 Exploratory Data Analysis (EDA)       |
+|                                 | 📈 Dashboard Development                  |
 
 ### 🤝🏻 &nbsp;Connect with Me
 
