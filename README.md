@@ -13,15 +13,17 @@
 
 <img alt="Data Analytics" src="https://raw.githubusercontent.com/Verov23/Verov23/main/assets/Data-Analytics.gif" align="right"/>
 
-### 🛠️ &nbsp;Tech Stack
+### 🛠️ Tech Stack
 
-| Programming | BI & Visualization | Tools & Platforms | Data Skills |
-|------------|------------------|-----------------|-------------|
-| 🐍 Python (Pandas, NumPy) | 📈 Power BI | 💻 Jupyter Notebook | 🧹 Data Cleaning & Transformation |
-| 🗃️ SQL | 📊 Tableau | 🔗 GitHub | 📊 KPI Monitoring & Reporting |
-| 📊 Excel (Advanced) | 📉 Matplotlib, Seaborn, Plotly | 🏢 SAP, MICROPLUS, SERCOP | 📚 Exploratory Data Analysis (EDA) |
-| 📝 Google Sheets |                  |                 | 📈 Dashboard Development |
-
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
+</p>
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
